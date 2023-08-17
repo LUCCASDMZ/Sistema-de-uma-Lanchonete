@@ -1,0 +1,22 @@
+{
+  "name": "desafio-lanchonete",
+  "version": "1.0.0",
+  "description": "Automatização do caixa de uma Lanchonete",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LUCCASDMZ/desafio-Luccas-Duarte.git"
+  },
+  "author": "Luccas Duarte Mendanha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LUCCASDMZ/desafio-Luccas-Duarte/issues"
+  },
+  "homepage": "https://github.com/LUCCASDMZ/desafio-Luccas-Duarte#readme",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
+}
